@@ -1,0 +1,7 @@
+.idea/
+.coverage
+coverage.xml
+.vscode/
+dist/
+**/__pycache__
+TODO
