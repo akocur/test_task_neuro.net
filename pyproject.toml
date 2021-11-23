@@ -3,6 +3,9 @@ name = "company_evaluation"
 version = "0.1.0"
 description = ""
 authors = ["akocur <akocur@yandex.ru>"]
+packages = [
+    { include = "company_evaluation" }
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
